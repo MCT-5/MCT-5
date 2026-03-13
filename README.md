@@ -1,4 +1,4 @@
-
+ 
 # 💫 Hi, I'm Marc
 🔭 I’m currently studying Computer Engineering at the Universitat de Lleida<br>🌱 Currently learning about how to apply all my knowledge in real life.<br>🤔 Always curious<br>
 
